@@ -17,3 +17,6 @@ for archivo in "$DIRECTORIO"/*; do
         # Si sabemos que exactamente hay un archivo con el hash, podemos salir del bucle utilizando un break
     fi
 done
+
+#Abrir stegosuite y elegir la imagen 22 en este caso y extraer 
+#"Al Fascismo no se le discute, se le destruye." Buenaventura Durruti
